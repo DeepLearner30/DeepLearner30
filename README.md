@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Neural Networks.
 - 🌱 I’m currently exploring the world of AI.
 - 💞️ I’m looking to collaborate on research in Deep Learning.
-- 📫 How to reach me email-> srijitabando30@gmail.com
+- 📫 How to reach me email-> iamsrijitabandopadhyay3010@gmail.com
   
 
 <!---
